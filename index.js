@@ -31,4 +31,4 @@ client.on('ready',()=>{
 
 });
 
-client.login("NzM4MzExNDUxODAyMDc1MTc3.XyKEHw.Q4nHYqp2vHsFhiGvgKaenAIN_q4")
+client.login("TOKEN HERE")
