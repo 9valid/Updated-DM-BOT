@@ -1,6 +1,10 @@
 
 #Disclaimer-THIS IS .JS NOT .PY LIKE THE LAST ONE THERE IS A RUN.BAT TO MAKE IT EASIER
 -------------
+#Must have Node.js Installed in order for this to run correctly
+------------
+Node.js Download: https://nodejs.org/en/download/
+-------------
 # Updated-DM-BOT
  A Discord-bot that dm's everyone in the server (NO LIMIT)
  
