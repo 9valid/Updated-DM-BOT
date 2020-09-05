@@ -15,7 +15,7 @@ Node.js Download: https://nodejs.org/en/download/
  
  1st You want to open the Index.js file with Notepad++/VScode or notepad!!
  
- 2nd Scroll down until you see "bot.run("TOKEN HERE")"
+ 2nd Scroll down until you see "client.login("TOKEN HERE")"
 
  3rd Insert your "BOT TOKEN" in the "TOKEN HERE" section
 
